@@ -11,7 +11,7 @@
   Created By Secanonm
 </H5>
 <p align="center">HPomb closed-source project for SMS , Call &  Mail bombing available for   Window , Linux , MacOS And Android( Termux ) </p><br>
-<img src="https://honeypots.tech/p/HPomb/v2020.10/v2020.10.png" alt="look">
+<img src="https://repository-images.githubusercontent.com/252939958/739b8c80-7695-11ea-9812-42157e3abf74" alt="look">
 
 ![platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Android%20%7C%20Linux%20%7C%20MacOS-orange)
 ![Analisy](https://img.shields.io/badge/Version-2020.12Beta-success)
